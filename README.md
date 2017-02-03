@@ -1,3 +1,5 @@
 #Read me! Reeeeaaaaaaeeeed me!
 
-Hey! Look at me! I'm a readme.md file! I'm awesome!
+This is the greatest README in the history of READMEs!
+
+It's okay to be nervous.
