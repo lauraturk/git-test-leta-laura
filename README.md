@@ -1,4 +1,4 @@
-#Read me! Reaaaaaaddeeeed me!
+#Read me! Reeeeaaaaaaeeeed me!
 
 Hey! Look at this! It's a readme.md file!
 
