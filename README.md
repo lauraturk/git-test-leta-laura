@@ -1,5 +1,3 @@
 #Read me! Reeeeaaaaaaeeeed me!
 
-Hey! Look at this! It's a readme.md file!
-
-DOING THINGS!
+Hey! Look at me! I'm a readme.md file! I'm awesome!
